@@ -2,7 +2,7 @@
 
 🎓 **BS in Computer Science**  
 📍 Indian Institute of Science Education & Research, Bhopal  
-💻 Passionate about Machine Learning, Computer Vision, and Full-Stack Development  
+💻 Passionate about Machine Learning, Computer Vision, and NLP  
 
 ---
 
