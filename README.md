@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arpan Jain
 
-🎓 **BS in Computer Science**  
+🎓 **BS in Data Science**  
 📍 Indian Institute of Science Education & Research, Bhopal  
 💻 Passionate about Machine Learning, Computer Vision, and NLP  
 
